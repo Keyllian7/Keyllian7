@@ -21,8 +21,11 @@ E --> F[🌱 Continuously Learning]
 
 ## 📫 How to reach me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/keyllian-azevedo/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:keyllianazevedo2@gmail.com)
+[![LinkedIn](https://drive.google.com/uc?export=view&id=1v0f_focIkuAfxJ3QZkIA5FBMrROYYxwE)](https://www.linkedin.com/in/keyllian-azevedo/)
+[![Gmail](https://drive.google.com/uc?export=view&id=1_MzHcSqyhNzNkDcaysLFHz8mLIyKoSxF)](mailto:keyllianazevedo2@gmail.com)
+[![Discord](https://drive.google.com/uc?export=view&id=1Zn6c9x6J6w0Thiw9D4fEQ1rpTaC2MApT)](https://discord.gg/5Ktggd4F)
+[![Instagram](https://drive.google.com/uc?export=view&id=1qpcQsfScQhqMDfXROFvz3WnV7kxtM3E3)](https://www.instagram.com/keyllian7?igsh=bnd6Z3Jpbm40aG16&utm_source=qr)
+
 
 ## 🛠️ Technologies & Tools
 
