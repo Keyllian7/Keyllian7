@@ -2,23 +2,6 @@
 
 ![Keyllian Azevedo](https://img.shields.io/badge/Keyllian_Azevedo-ED8B00?style=for-the-badge&logo=java&logoColor=white&labelColor=333333&color=ED8B00&label=) 
 
-## 🌟 About Me
-
-- 🌱 Currently exploring advanced **Spring Boot** features to deepen my expertise and deliver cutting-edge solutions.
-- 💼 Demonstrated experience in designing and implementing APIs for certificate management and verification, ensuring robust security and reliability.
-- 🔍 Eager to collaborate on groundbreaking open-source projects and make meaningful contributions to the tech community.
-
-## 🛤️ My Development Journey
-
-```mermaid
-graph LR
-A[👶 Born] --> B[🎮 Developed a passion for tech]
-B --> C[💻 Started coding in high school]
-C --> D[🎓 Pursued a degree in Computer Science]
-D --> E[🚀 Became a Java Developer]
-E --> F[🌱 Continuously Learning]
-```
-
 ## 📫 How to reach me
 
 [![LinkedIn](https://drive.google.com/uc?export=view&id=1v0f_focIkuAfxJ3QZkIA5FBMrROYYxwE)](https://www.linkedin.com/in/keyllian-azevedo/)
@@ -40,7 +23,3 @@ E --> F[🌱 Continuously Learning]
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-
-## 📈 GitHub Stats
-![Keyllian's GitHub stats](https://github-readme-stats.vercel.app/api?username=Keyllian7&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Keyllian7&layout=compact&theme=radical)
