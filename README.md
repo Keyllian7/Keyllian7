@@ -65,7 +65,3 @@
 </div>
 
 ###
-
-<img src="https://raw.githubusercontent.com/Keyllian7/Keyllian7/output/snake.svg" alt="Snake animation" />
-
-###
