@@ -1,22 +1,71 @@
-# 🚀 Welcome to My GitHub Profile!☕
-![Keyllianazevedo2@gmail.com](https://img.shields.io/badge/keyllianazevedo2@gmail.com-FF0000?style=for-the-badge&logo=gmail&logoColor=white&labelColor=FF0000&color=FF0000)
+<h2 align="left">🌟About me!</h2>
 
-## 📫 How to reach me
-[![LinkedIn](https://drive.google.com/uc?export=view&id=1v0f_focIkuAfxJ3QZkIA5FBMrROYYxwE)](https://www.linkedin.com/in/keyllian-azevedo/)
-[![Discord](https://drive.google.com/uc?export=view&id=1Zn6c9x6J6w0Thiw9D4fEQ1rpTaC2MApT)](https://discord.gg/5Ktggd4F)
-[![Instagram](https://drive.google.com/uc?export=view&id=1qpcQsfScQhqMDfXROFvz3WnV7kxtM3E3)](https://www.instagram.com/keyllian7?igsh=bnd6Z3Jpbm40aG16&utm_source=qr)
+###
 
-## 🛠️ Technologies & Tools
+<p align="left">☕ Backend Developer | Java & Spring Boot Enthusiast  <br><br>Hi there! I'm a passionate backend developer with experience in creating robust APIs and microservices using Java and Spring Boot. I also bring expertise in PHP and Laravel, crafting scalable solutions that combine performance with quality. Let's connect and build something amazing together!</p>
 
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+###
 
-## ⚙️ Frameworks
+<h2 align="left">📲Social Media</h2>
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+###
+
+<div align="left">
+  <a href="www.linkedin.com/in/keyllian-azevedo" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="https://discord.gg/TGWfmedbQQ" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
+  </a>
+  <a href="https://www.instagram.com/keyllian.dev/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  </a>
+  <a href="mailto:keyllianazevedo2@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  </a>
+</div>
+
+###
+
+<h2 align="left">💻Technologies</h2>
+
+###
+
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=php" height="40" alt="php logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=spring" height="40" alt="spring logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=laravel" height="40" alt="laravel logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwindcss logo"  />
+</div>
+
+###
+
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Keyllian7&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=rose_pine&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Keyllian7&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=4&theme=rose_pine&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=Keyllian7&theme=dracula&column=2&row=2&margin-w=8&margin-h=8&no-bg=true&no-frame=false&order=4" height="150" alt="trophy graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Keyllian7&radius=16&theme=modern-lilac&area=true&order=5&hide_border=false&hide_title=false" height="300" alt="activity-graph graph"  />
+</div>
+
+###
+
+<img src="https://raw.githubusercontent.com/Keyllian7/Keyllian7/output/snake.svg" alt="Snake animation" />
+
+###
