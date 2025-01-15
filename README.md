@@ -27,7 +27,7 @@
 
 ###
 
-![Graphic](./profile-3d-contrib/profile-night-rainbow.svg)
+![Graphic](./profile-3d-contrib/profile-night-green.svg)
 
 ###
 
