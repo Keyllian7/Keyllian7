@@ -1,16 +1,16 @@
-<h2 align="left">🌟Welcome to my profile, learn a little about me!</h2>
+<h2 align="center">🌟Welcome to my profile, learn a little about me!</h2>
 
 ###
 
-<p align="left">☕ Backend Developer | Java & Spring Boot Enthusiast | 🚀 Node.js, JavaScript & TypeScript Advocate <br><br>Hi there! I'm a passionate backend developer with experience in creating robust APIs and microservices using Java and Spring Boot. I also bring expertise in PHP and Laravel, crafting scalable solutions that combine performance with quality. Additionally, I have a keen interest in Node.js, JavaScript, and TypeScript, leveraging their ecosystems to develop modern, efficient applications. Let's connect and build something amazing together!</p>
+<p align="center">☕ Backend Developer | Java & Spring Boot Enthusiast | 🚀 Node.js, JavaScript & TypeScript Advocate <br><br>Hi there! I'm a passionate backend developer with experience in creating robust APIs and microservices using Java and Spring Boot. I also bring expertise in PHP and Laravel, crafting scalable solutions that combine performance with quality. Additionally, I have a keen interest in Node.js, JavaScript, and TypeScript, leveraging their ecosystems to develop modern, efficient applications. Let's connect and build something amazing together!</p>
 
 ###
 
-<h2 align="left">📲Social Media</h2>
+<h2 align="center">📲Social Media</h2>
 
 ###
 
-<div align="left">
+<div align="center">
   <a href="www.linkedin.com/in/keyllian-azevedo" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
@@ -31,11 +31,11 @@
 
 ###
 
-<h2 align="left">💻Technologies</h2>
+<h2 align="center">💻Technologies</h2>
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo"  />
@@ -61,7 +61,7 @@
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Keyllian7&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=rose_pine&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Keyllian7&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=3&theme=rose_pine&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
